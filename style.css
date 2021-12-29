@@ -1,0 +1,45 @@
+
+.top-img{
+    width: 101%;
+}
+.full-page{
+    background-color: #FFEE07;
+}
+.name-sec{
+border-radius: 20px !important;
+}
+.log-btn{
+    border-radius: 15px !important;
+}
+.btns-sec{
+    text-align: center;
+}
+.logs-link{
+    background-color: #FFEE07;
+}
+.pre-imgs {
+    width: 100% !important;
+    position: relative;
+    height: 100%;
+}
+.btm-logs1{
+    text-align: center !important;
+}
+.players-img{
+    height: 100px;
+    width: 100px;
+    margin: 0 -20px 20px 0px;
+    position: relative;
+}
+.tops-btns{
+    height: 45px;
+    float: right;
+}
+.pro-topimg{
+    height: 300px !important;
+}
+.indiv-secs{
+    background-color: #19191A;
+    color: #fff !important;
+    margin: -50px 0px 0px 0px;
+}
