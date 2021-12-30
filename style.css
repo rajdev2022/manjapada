@@ -43,3 +43,20 @@ border-radius: 20px !important;
     color: #fff !important;
     margin: -50px 0px 0px 0px;
 }
+.members-secs{
+    background-color: #FFEE07 !important;
+}
+.top-img{
+    background-color: #FFEE07;
+}
+.name-sec{
+    background-color: #FFEE07 !important;
+}
+.tops-head{
+    background-color: #FFEE07 !important;
+}
+.btm-brdr-set{
+    color: #fff !important;
+    border-radius: 15px;
+    padding-bottom: 50px;
+}
